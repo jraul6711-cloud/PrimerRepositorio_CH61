@@ -1,4 +1,17 @@
-function suma(num1, num2) {
-    let resultaod = num1 + num2;
-    return resultado;
-}// suma
+//Función para sumar dos números
+
+function sumar(a,b) {
+    return a + b;
+}
+
+//Función para restar dos números
+
+function restar(a,b) {
+    return a - b;
+}
+
+//Función para multiplicar dos números
+
+function multiplicar(a,b) {
+    return a * b;
+}
